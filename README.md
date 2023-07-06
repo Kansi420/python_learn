@@ -8,3 +8,4 @@ It is divided into the following sections:
 - Numpy
 - OOPS concepts
 - Pandas
+- Keras
